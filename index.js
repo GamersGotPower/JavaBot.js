@@ -9,4 +9,4 @@ bot.registry.registerGroup('games', 'Games');
 bot.registry.registerDefaults();
 bot.registry.registerCommandsIn(__dirname + '/commands');
 
-bot.login('MzE2ODQxNDkxNDYzMTQzNDI2.DAqPaw.oMhEQ9jMYZFTNKsCO3BAtdkjaZQ')
+bot.login([redacted]);
